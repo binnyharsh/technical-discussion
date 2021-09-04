@@ -7,4 +7,4 @@ This is a demo repo for coursera course
 * three
 
 ### Gist Example
-My [code] example: (https://gist.github.com/binnyharsh/e6813acec876e0b857b46de0ac38153d)
+Example of [my code] (https://gist.github.com/binnyharsh/e6813acec876e0b857b46de0ac38153d)
